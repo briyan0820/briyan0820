@@ -16,8 +16,7 @@
 
 I'm a **Data Science Engineering student** at **Universidad del Magdalena**, in Santa Marta, Colombia. I'm interested in programming, data analysis, artificial intelligence, and building useful projects.
 
-- 🌱 I'm currently learning **Python, SQL and data analysis**.
-- 🐧 I'm exploring **Linux** and development tools.
+- 🌱 I'm currently learning **Python, Panda and data analysis**.
 - 💻 I enjoy solving problems and improving my programming skills.
 - 🤝 I'm open to learning from others and collaborating on beginner-friendly projects.
 - 🏎️ Outside tech, I enjoy **Formula 1** and football.
