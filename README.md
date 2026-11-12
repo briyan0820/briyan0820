@@ -19,7 +19,7 @@ I'm a **Data Science Engineering student** at **Universidad del Magdalena**, in 
 - 🌱 I'm currently learning **Python, Panda and data analysis**.
 - 💻 I enjoy solving problems and improving my programming skills.
 - 🤝 I'm open to learning from others.
-- 🏎️ Outside tech, I enjoy **Formula 1** and football.
+- 🏎️ Outside tech, I enjoy **Formula 1** and **Tennis**.
 
 <br clear="right" />
 
