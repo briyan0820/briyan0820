@@ -21,7 +21,6 @@ I'm a **Data Science Engineering student** at **Universidad del Magdalena**, in 
 - 💻 I enjoy solving problems and improving my programming skills.
 - 🤝 I'm open to learning from others and collaborating on beginner-friendly projects.
 - 🏎️ Outside tech, I enjoy **Formula 1** and football.
-- 📫 Find me on GitHub: **[@briyan0820](https://github.com/briyan0820)**.
 
 <br clear="right" />
 
