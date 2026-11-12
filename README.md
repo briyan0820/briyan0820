@@ -1,4 +1,4 @@
-
+<img src="banner.png" alt="Briyan Carmona - Data Science Engineering Student" width="100%">
 # Hi there, I'm Briyan! 👋
 
 ### 🎓 Data Science Engineering Student
