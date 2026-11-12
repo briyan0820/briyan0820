@@ -32,14 +32,12 @@ I'm a **Data Science Engineering student** at **Universidad del Magdalena**, in 
 **Languages I'm learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools & technologies**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
@@ -55,7 +53,4 @@ I'm a **Data Science Engineering student** at **Universidad del Magdalena**, in 
 [![GitHub](https://img.shields.io/badge/Follow%20me%20on%20GitHub-briyan0820-24292f?style=flat-square&logo=github)](https://github.com/briyan0820)
 
 <div align="center">
-
-*Thanks for visiting my profile! ✨*
-
 </div>
