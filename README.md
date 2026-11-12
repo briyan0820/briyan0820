@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" width="280" alt="Animated bear typing on a laptop" src="./assets/typing-bear.gif" />
+<img align="right" width="280" alt="Animated bear typing on a laptop" src="./assets/820d430a62d360cf71c4a46f1d305f9c.gif"/>
 
 ### ⭐ About me
 
